@@ -38,7 +38,8 @@
 
 <!-- Portfólio -->
 ## Portfólio:
-  > Em breve
+  - [Portal do Funcionário](https://github.com/MuriMarr/Flask-Portal-Funcionario)
+  - [Projeto Acadêmico: Site de Pedidos](https://github.com/MuriMarr/Projeto-ADS-Site-Bolo)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
