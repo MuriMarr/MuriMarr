@@ -24,13 +24,15 @@
 <details>
   <summary>🧙‍♂️ Mais sobre mim:</summary>
 
-  - Comecei nesse mundo de Tecnologia da Informação com 5 anos, desde criança fui ensinado a montar e desmontar desktops.
+  - 🍵 Comecei nesse mundo de Tecnologia da Informação com 5 anos, desde criança fui ensinado a montar e desmontar desktops.
 
-  - Com 8 anos eu já sabia fazer uma configuração básica no Windows, entrar em sites, instalar jogos e, obviamente, jogar.
+  - 🧒🏻 Com 8 anos eu já sabia fazer uma configuração básica no Windows, entrar em sites, instalar jogos e, obviamente, jogar.
 
-  - Aos 14 anos, comecei a estudar inglês e desde então, pratico por 12 anos naturalmente. Sem vídeos legendados, sem tradutor.
+  - 👦🏻 Aos 14 anos, comecei a estudar inglês e desde então, pratico por 12 anos naturalmente. Sem vídeos legendados, sem tradutor.
 
-  - Agora com 25 anos, voltei a praticar a língua russa, pois tenho uma admiração enorme nesse país e a cultura também!
+  - 👨🏻‍💻 Agora com 25 anos, voltei a praticar a língua russa, pois tenho uma admiração enorme nesse país e a cultura também!
+
+  - 🧙🏻‍♂️ **CURIOSIDADE A PARTE:** o apelido "Muri Marr" surgiu pois sou guitarrista e sou muito fã do guitarrista do The Smiths, Johnny Marr  
 </details>
 
 <!-- Links -->
@@ -40,6 +42,7 @@
 ## Portfólio:
   - [Portal do Funcionário](https://github.com/MuriMarr/Flask-Portal-Funcionario)
   - [Projeto Acadêmico: Site de Pedidos](https://github.com/MuriMarr/Projeto-ADS-Site-Bolo)
+  - [Fujiwara Tofu Eurobeat Radio](https://github.com/MuriMarr/Fujiwara-Tofu-Eurobeat-Radio)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
