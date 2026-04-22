@@ -57,11 +57,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="Java" width="30" 
 src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/java/java-original-wordmark.svg">
   </div>
-<!-- Skills: Tools & Frameworks -->
+<!-- Skills: Tools, Frameworks & Plugins -->
   <div style="flex-basis: 48%;">
-    <h3>Frameworks & Tools/Frameworks e Ferramentas</h3>
+    <h3>Frameworks, Tools & Plugins/Frameworks, Ferramentas e Plugins</h3>
     <img align="center" alt="VSCode" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="React" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/react/react-original.svg">
+    <img align="center" alt="ViteJS" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/vitejs/vitejs-original.svg">
 
 <!-- Github Stats -->
 ---
