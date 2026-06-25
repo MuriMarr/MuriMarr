@@ -40,9 +40,8 @@
 
 <!-- Portfólio -->
 ## Portfólio:
-  - [Portal do Funcionário](https://github.com/MuriMarr/Flask-Portal-Funcionario)
-  - [Projeto Acadêmico: Site de Pedidos](https://github.com/MuriMarr/Projeto-ADS-Site-Bolo)
-  - [Fujiwara Tofu Eurobeat Radio](https://github.com/MuriMarr/Fujiwara-Tofu-Eurobeat-Radio)
+  - [Portal do Funcionário - PAUSADO](https://github.com/MuriMarr/Flask-Portal-Funcionario)
+  - [Fujiwara Tofu Eurobeat Radio - EM ANDAMENTO](https://github.com/MuriMarr/Fujiwara-Tofu-Eurobeat-Radio)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
